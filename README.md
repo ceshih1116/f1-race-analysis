@@ -62,11 +62,6 @@ Includes:
 
 ---
 
-## Sample Visualization
-(dashboard.png)
-
----
-
 ## Key Insights
 - Tire degradation is the most critical factor in race performance  
 - Early pit stops (undercut) can significantly improve track position  
